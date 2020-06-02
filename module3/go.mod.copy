@@ -1,4 +1,5 @@
 module github.com/pluralsight-projects/golang-cli-playbook
+module github.com/nathan-osman/go-sunrise
 
 go 1.13
 
